@@ -1,1 +1,80 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+.form-group label {
+
+    color: #0692B1;
+}
+
+.form-group input {
+
+    color: #c0bdbd;
+    font-weight: 300;
+    border-color: lightblue;
+    
+}
+
+thead tr th {
+
+    font-weight: 500;
+    color: white;
+    
+}
+
+table tbody tr:hover {
+    background-color: #99EBA8;
+    cursor: pointer;
+}
+
+input.invalid {
+
+    border-color: red;
+}
+
+.baslik {
+    
+    color: white;
+    background-size:auto;
+    background-color: #07A0C3;
+    border-radius: 50px;
+    margin-top: 10px;
+    
+}
+
+.display-3 {
+
+    font-weight: 500;
+}
+
+.thead-light{
+
+    background-color: turquoise;
+
+}
+
+ .table .thead-light th{
+    background-color: #17a2b8;
+    color: white;
+}
+
+.table {
+    margin-top: 30px;
+    color: #0593B3;
+}
+
+table tbody tr {
+    background-color: #EBFBFE;
+}
+
+.btn-info.disabled {
+    color: #B0EEFC;
+}
+
+.validation {
+
+color: #146723;
+}
+
+
+
+
