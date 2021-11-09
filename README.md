@@ -1,5 +1,7 @@
 # PaymentApp
 
+A payment register site as a tutorial project.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
 ## Development server
