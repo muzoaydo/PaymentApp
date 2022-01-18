@@ -2,6 +2,9 @@
 
 A payment register site as a tutorial project.
 
+![PaymentApp](https://user-images.githubusercontent.com/64156908/149942247-e2f9b116-4234-4aa4-b3ab-2ebcdeb2de42.jpg)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
 ## Development server
